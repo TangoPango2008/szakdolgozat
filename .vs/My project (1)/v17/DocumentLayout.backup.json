@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balaz\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\balaz\\my project (1)\\assets\\konnyuolvasasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\konnyuolvasasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\spotlighteffect.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\spotlighteffect.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\customcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\customcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\cursorshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\cursorshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\resources\\objects.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\objects.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\scrfipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scrfipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\olvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\olvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\namescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\namescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\Assets\\StaticData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:Assets\\StaticData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\balaz\\My project (1)\\assets\\irasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\irasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpotlightEffect.shader",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\SpotlightEffect.shader",
+              "RelativeDocumentMoniker": "Assets\\SpotlightEffect.shader",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\SpotlightEffect.shader",
+              "RelativeToolTip": "Assets\\SpotlightEffect.shader",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-11-06T20:14:22.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomCursor.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\CustomCursor.cs",
+              "RelativeDocumentMoniker": "Assets\\CustomCursor.cs",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\CustomCursor.cs",
+              "RelativeToolTip": "Assets\\CustomCursor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:48:47.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursorShader.shader",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\CursorShader.shader",
+              "RelativeDocumentMoniker": "Assets\\CursorShader.shader",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\CursorShader.shader",
+              "RelativeToolTip": "Assets\\CursorShader.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-11-06T18:04:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerScore.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\PlayerScore.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerScore.cs",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\PlayerScore.cs",
+              "RelativeToolTip": "Assets\\PlayerScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:59:55.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Objects.txt",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\Resources\\Objects.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Objects.txt",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\Resources\\Objects.txt",
+              "RelativeToolTip": "Assets\\Resources\\Objects.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-05T16:27:24.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KonnyuOlvasasScript.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\KonnyuOlvasasScript.cs",
+              "RelativeDocumentMoniker": "Assets\\KonnyuOlvasasScript.cs",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\KonnyuOlvasasScript.cs",
+              "RelativeToolTip": "Assets\\KonnyuOlvasasScript.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAkwJQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:41:15.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IrasScript.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\IrasScript.cs",
+              "RelativeDocumentMoniker": "Assets\\IrasScript.cs",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\IrasScript.cs",
+              "RelativeToolTip": "Assets\\IrasScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:31:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaticData.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\StaticData.cs",
+              "RelativeDocumentMoniker": "Assets\\StaticData.cs",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\StaticData.cs",
+              "RelativeToolTip": "Assets\\StaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:10:51.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NameScript.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\NameScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NameScript.cs",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\NameScript.cs",
+              "RelativeToolTip": "Assets\\NameScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:04:09.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OlvasScript.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\OlvasScript.cs",
+              "RelativeDocumentMoniker": "Assets\\OlvasScript.cs",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\OlvasScript.cs",
+              "RelativeToolTip": "Assets\\OlvasScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:57:11.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scrfipt.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\My project (1)\\Assets\\Scrfipt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrfipt.cs",
+              "ToolTip": "C:\\Users\\balaz\\My project (1)\\Assets\\Scrfipt.cs",
+              "RelativeToolTip": "Assets\\Scrfipt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:54:23.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
